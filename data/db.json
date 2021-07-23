@@ -1,0 +1,19 @@
+{
+  "blogs": [
+    {
+      "title": "What is React?",
+      "body": "React is a JavaScript library that is used to build web user interfaces and components. In other words, React is used to build the front end of websites that includes web pages, their layouts, and content. A typical website has a frontend and backend. The frontend of a website that is what its users see and interact with when they load a website in their browser on desktop, laptop, or mobile devices. The backend of a website is where its data is stored and served from. The third component of a website is a communication mechanism, a API or a library that is used to access data from the backend to the frontend and store back to the databas",
+      "id": 1
+    },
+    {
+      "title": "What are components?",
+      "body": "Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML",
+      "id": 2
+    },
+    {
+      "title": "What is State in React?",
+      "body": " State in React can be changed as per the user action or any other actions. When the state is changed, React re-renders the component automatically to the browser. We can say that State contains the information that can be changed during the component’s lifecycle. ",
+      "id": 3
+    }
+  ]
+}
